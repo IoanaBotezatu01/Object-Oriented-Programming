@@ -1,0 +1,5 @@
+accident Georgel 1,2 0
+groapa Sorinel 1,45 0
+accidentGrav Francesco 90,15 1
+lucrari Marinel 12,20 0
+lucrari Costel 9,12 1
