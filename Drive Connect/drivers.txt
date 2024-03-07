@@ -1,0 +1,5 @@
+Costel 1,2 20
+Marinel 15,2 100
+Georgel 5,6 50
+Sorinel 20,60 150
+Francesco 90,16 150
