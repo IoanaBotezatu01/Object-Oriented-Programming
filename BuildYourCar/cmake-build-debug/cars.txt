@@ -1,0 +1,3 @@
+Body style:Sedan; Turbo engine;  Fuel type:gasoline; Price:11001.000000
+Body style:Convertible;  Electric engine;   Autonomy:900; Price:12009.000000
+Body style:Sedan;  Electric engine;   Autonomy:1299; Price:11012.990000
