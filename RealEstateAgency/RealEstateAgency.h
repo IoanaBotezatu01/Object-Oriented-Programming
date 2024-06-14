@@ -1,0 +1,14 @@
+//
+// Created by user on 09.05.2023.
+//
+
+#ifndef REALESTATEAGENCY_REALESTATEAGENCY_H
+#define REALESTATEAGENCY_REALESTATEAGENCY_H
+
+
+class RealEstateAgency {
+
+};
+
+
+#endif //REALESTATEAGENCY_REALESTATEAGENCY_H
